@@ -1,6 +1,6 @@
 import React from 'react'
 import "./css/app.css"
-
+import Contact from './Contact';
 // JSX
 function App() {
 
@@ -20,6 +20,7 @@ function App() {
 
       <h1 className='cls' onClick={DisplayAlert} >Hello {username}</h1>
       {is_conneced?<span className='adulte'>On line</span>:<span className='mineur'>Off Line</span>}
+      <Contact />
     </>
   )
 }
