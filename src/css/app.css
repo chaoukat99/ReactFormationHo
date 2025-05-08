@@ -13,3 +13,10 @@
 
     color: red;
 }
+.connected{
+    color: green;
+}
+
+.disconnected{
+    color: red;
+}
