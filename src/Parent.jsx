@@ -11,8 +11,8 @@ function Parent() {
 const users=[
     
     {id:1, name:"John", is_connected:true,email:"test@gmail.com",passwod:"uizduz",image:"url"},
-    {id:1, name:"John", is_connected:true,email:"test@gmail.com",passwod:"uizduz",image:"url"},
-    {id:1, name:"John", is_connected:true,email:"test@gmail.com",passwod:"uizduz",image:"url"},
+    {id:2, name:"jane", is_connected:true,email:"test@gmail.com",passwod:"uizduz",image:"url"},
+    {id:3, name:"jonathan", is_connected:true,email:"test@gmail.com",passwod:"uizduz",image:"url"},
 ]  
 
 const DisplayALert=()=>{

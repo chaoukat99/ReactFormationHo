@@ -6,6 +6,8 @@ import Diconnected from './Diconnected';
 import ProductList from './ProductList';
 import Chils from './Chils';
 import Parent from './Parent';
+import Counter from './Counter';
+import Login from './Login';
 // JSX
 function App() {
 
@@ -46,7 +48,7 @@ function App() {
 
 {/* <Chils   is_connected={true} userlogged={"Karim"}  count={20}   products={[{},{}]}    /> */}
 
-<Parent/>
+<Login/>
     </>
 
   )
